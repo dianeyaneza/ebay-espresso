@@ -2,6 +2,13 @@
 
 Create a trend based on 2009 - 2019 Airline passengers / freight to predict what 2020 could have been, and compare that to actual 2020 numbers.
 
+## Team Members
+@Damini-Patel
+@dianeyaneza
+@faisalmalik97
+@jl-horton
+@oscar-geare
+
 ## Questions
 * Where planes are coming from (country)
 * Amount of passengers in / out
