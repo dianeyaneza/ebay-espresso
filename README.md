@@ -7,7 +7,7 @@ Create a trend based on 2009 - 2019 Airline passengers / freight to predict what
 * Amount of passengers in / out
 * Amount of freight in / out
 * Amount of mail in / out
-* Project possible revenue 
+* Ratio of Passengers and Freight per flight
 
 ## Datasets
 https://www.bitre.gov.au/publications/ongoing/international_airline_activity-time_series
