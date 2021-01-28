@@ -8,6 +8,7 @@ Create a trend based on 2009 - 2019 Airline passengers / freight to predict what
 @faisalmalik97
 @jl-horton
 @oscar-geare
+@MwansaMwango
 
 ## Questions
 * Where planes are coming from (country)
