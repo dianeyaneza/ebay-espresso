@@ -1,7 +1,7 @@
 # Mapping what airline traffic could have been for 2020
 Create a trend based on 2009 - 2019 Airline passengers / freight / mail to predict what 2020 could have been, and compare that to actual 2020 numbers.
 
-## ebay-espresso Group Team Members
+## ebay-espresso group Team Members:
 @Damini-Patel
 @dianeyaneza
 @faisalmalik97
