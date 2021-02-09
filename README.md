@@ -1,4 +1,5 @@
-# ebay-espresso - Mapping what airline traffic could have been for 2020
+# Mapping what airline traffic could have been for 2020
+by group: ebay-espresso
 
 Create a trend based on 2009 - 2019 Airline passengers / freight to predict what 2020 could have been, and compare that to actual 2020 numbers.
 
